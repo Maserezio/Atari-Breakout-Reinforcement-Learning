@@ -3,8 +3,8 @@ import random
 import math
 
 # Game dimensions
-WIDTH = 600
-HEIGHT = 500
+WIDTH = 640
+HEIGHT = 480
 
 # Colors
 WHITE = (255, 255, 255)
@@ -26,7 +26,7 @@ BALL_SPEED_Y = 3
 BALL_SPEED_X_CHOICES = [-2, -1, 0, 1, 2]
 
 # Brick dimensions
-BRICK_WIDTH = 50
+BRICK_WIDTH = 60
 BRICK_HEIGHT = 20
 BRICK_ROWS = 5
 BRICK_COLS = 10
